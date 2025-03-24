@@ -1,4 +1,4 @@
-# equoition
+# equation
 VARIABLE
 - declaration de variable :
 - syntaxe variable
