@@ -11,4 +11,19 @@ LES TYPES DE VARIABLE
 - nombres
 VARIABLE TABLEAU
 
+---en---
+## Variables
+
+### Declaration of variables:
+- Variable syntax
+- Operators
+- Storing values
+
+### Executing variables:
+- Using `console.log`
+- DOM manipulation to display variables
+
+### Variable Types:
+- Numbers
+- Arrays
 
